@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect Three</string>
+    <string name="board">board</string>
+    <string name="red">red</string>
+</resources>
